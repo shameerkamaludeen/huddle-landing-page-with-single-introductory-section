@@ -95,7 +95,7 @@ header .wrapper-logo img {
 .section-intro .wrapper-desc > a:hover {
     background-color: hsl(300, 69%, 71%);
     color: white;
-    opacity: 905%;
+    opacity: 95%;
     transition: background-color 0.2s, color 0.2s, 
     opacity 0.2s;
 }
