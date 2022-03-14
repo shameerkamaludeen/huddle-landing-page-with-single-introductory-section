@@ -208,6 +208,16 @@ footer .wrapper-share svg:last-child {
         font-size: 1.125rem;
     }
 
+    /* || Header */
+
+    header .wrapper-logo {
+        margin: 6em 0 9em;
+    }
+
+    header .wrapper-logo img {
+        width: 21em;
+    }
+
     /* || Section intro */
 
     .section-intro .wrapper-desc > a {
